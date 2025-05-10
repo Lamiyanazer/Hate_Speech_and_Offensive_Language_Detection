@@ -32,7 +32,3 @@ The dataset used consists of **tweets labeled into three categories**:
 | Offensive Language | 1,430    |
 | Neither          | 4,163    |
 
-**1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/your-username/hate-speech-detection.git
-cd hate-speech-detection
